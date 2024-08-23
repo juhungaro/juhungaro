@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando **Python e R**
 
-- 💬 Me pergunte sobre **Analytics e Business Intelligence**
+- 💬 Me pergunte sobre **Inteligência Artificial, Machine Learning, Analytics e Business Intelligence**
 
 - 👯 Eu procuro colaborar em **projetos de ciência de dados**
 
